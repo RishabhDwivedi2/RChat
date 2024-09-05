@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+venv/
+
+# Postgres
+pg_data/
+
+# General
+.env

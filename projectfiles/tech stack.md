@@ -1,0 +1,11 @@
+# Tech Stack
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- PostCSS
+- Radix UI
+- Lucide Icons
+- Class Variance Authority (CVA)
+- FastAPI
+- Uvicorn
